@@ -1,2 +1,5 @@
 # hello-world
-Um ordnungsmeäß das Tutorial zu machen.
+Um ordnungsgemäß das Tutorial zu machen.
+
+Außerdem ergänze ich hier nun noch etwas, um eine Änderung sehen zu können.
+
